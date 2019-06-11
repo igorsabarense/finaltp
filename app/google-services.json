@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337251479412",
+    "firebase_url": "https://thepassitos-1560203747164.firebaseio.com",
+    "project_id": "thepassitos-1560203747164",
+    "storage_bucket": "thepassitos-1560203747164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337251479412:android:806112c20bf4ad23",
+        "android_client_info": {
+          "package_name": "igor_553251.finaltp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337251479412-hs06kcbmf4l8nnrq5eh2f81d156v2bpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "igor_553251.finaltp",
+            "certificate_hash": "8a6e47f1c893686ce476d2134f22f06f1c72ca2d"
+          }
+        },
+        {
+          "client_id": "337251479412-q0i2p8o57cvvam0dg0hg5msrudi250pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxe7GY_UiBZEmzAa5ccC5QRT0UnmPsz10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337251479412-q0i2p8o57cvvam0dg0hg5msrudi250pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
